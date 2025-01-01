@@ -1,3 +1,18 @@
 h1 {
     color:blue;
 }
+
+#header {
+   width: 1200px;
+}
+
+li {
+    display: inline;
+    float: left;
+  }
+  
+  a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+  }
