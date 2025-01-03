@@ -2,17 +2,26 @@ h1 {
     color:blue;
 }
 
-#header {
+header {
    width: 1200px;
 }
+
 
 li {
     display: inline;
     float: left;
-  }
+}
   
-  a {
+a {
     display: block;
     padding: 8px;
     background-color: #dddddd;
-  }
+}
+
+#logo {
+    width: 100%;
+}
+
+.photo-div {
+    width: 1200px;
+}
